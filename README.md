@@ -37,3 +37,7 @@ style_image_path = "path_to_your_image"
 image = pipeline(prompt=prompt, init_image=init_image, strength=strength).images[0]
 ```
 
+模型地址
+
+通过网盘分享的文件：模型
+链接: https://pan.baidu.com/s/1LkJAieRmBBxeW3yRQQt36A?pwd=hmhm 提取码: hmhm
